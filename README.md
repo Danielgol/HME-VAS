@@ -12,6 +12,10 @@ The dataset used in the paper is available in this repository. The images folder
 contain 300 images of vertical equations, while the labels folder contains the
 annotations files written on YOLO format.
 
+The `classes.txt` contains the labels used on the paper. It contains the numerical
+symbols, from 0 to 9, the addition and subtraction symbols, the equals symbol and
+the overset symbol, "c1".
+
 The `labels.csv` file contains the transcription from all 300 images. It also
 highlights which annotator was used to write the equation. (This file is going
 to be added soon)

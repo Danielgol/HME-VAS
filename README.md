@@ -20,6 +20,11 @@ The `labels.csv` file contains the transcription from all 300 images. It also
 highlights which annotator was used to write the equation. (This file is going
 to be added soon)
 
+## The Augmentation Data Generator:
+In `augmentation` folder contains a script that creates new binarized images
+of vertical equations. As it is said on the paper, it can be used to improve
+the results of the object detection training.
+
 ## The Code:
 The code is divided in two steps, which are the following:
 

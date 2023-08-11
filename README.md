@@ -21,12 +21,14 @@ highlights which annotator was used to write the equation. (This file is going
 to be added soon)
 
 ## The Augmentation Data Generator:
-In `augmentation` folder contains a script that creates new binarized images
+The `augmentation` folder contains a script that creates new binarized images
 of vertical equations. As it is said on the paper, it can be used to improve
 the results of the object detection training. The equations generated are not
 meant to have logical equations. It only intends to generate random equations,
 with random values, but with the pre-setted positions of a common vertical
-equation.
+equation. It uses the numerical symbols from MNIST dataset and uses the addition,
+subtraction and equals symbols from our proposed dataset. The MNIST digits
+were taken from this link: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
 ## The Code:
 The code is divided in two steps, which are the following:

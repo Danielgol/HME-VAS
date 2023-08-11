@@ -18,8 +18,6 @@ def ponto_aleatorio_dentro_do_circulo(x, y, raio):
     ponto_y = y + distancia * math.sin(angulo)
     return (int(ponto_x), int(ponto_y))
 
-
-
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()

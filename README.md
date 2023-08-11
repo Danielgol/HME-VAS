@@ -37,4 +37,4 @@ If you find the code useful in your research, please consider citing our paper:
 It is going to be added in the future.
 ```
 ## Contact
-Please contact filipe.rolim@ufrpe.br if you have any question on the codes.
+Please contact daniel.carneiro@ufrpe.br if you have any question on the codes.

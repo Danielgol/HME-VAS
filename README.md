@@ -19,7 +19,7 @@ This step is going to take the bounding boxes from step 1 and do the transcripti
 On `example.ipynb` notebook, we are making available an example that
 uses both steps mentioned above to make the HMER process. The model used in this example
 is the same model used in our paper, which was the best model in our research:
-the YOLO V8 model, tested with H3 annotator.
+the YOLO V8 model, tested with the H3 annotator.
 
 <b>Cite HME-VAS</b>\
 If you find the code useful in your research, please consider citing our paper:

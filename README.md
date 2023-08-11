@@ -23,7 +23,10 @@ to be added soon)
 ## The Augmentation Data Generator:
 In `augmentation` folder contains a script that creates new binarized images
 of vertical equations. As it is said on the paper, it can be used to improve
-the results of the object detection training.
+the results of the object detection training. The equations generated are not
+meant to have logical equations. It only intends to generate random equations,
+with random values, but with the pre-setted positions of a common vertical
+equation.
 
 ## The Code:
 The code is divided in two steps, which are the following:

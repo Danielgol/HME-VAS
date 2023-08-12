@@ -3,6 +3,9 @@ This repository is the official implementation of [Recognizing Handwritten Mathe
 
 <b>Authors</b>: Daniel C. Rosa, Filipe R. Cordeiro, Ruan Carvalho, Everton Souza, Luiz Rodrigues, Marcelo Marinho, Thales Vieira and Valmir Macario.
 
+<b>Illustration</b>\
+<img src="models/scheme.png">
+
 ## Requirements
 - This codebase is written for `python3`.
 - To install necessary python packages, run `pip install -r requirements.txt`.

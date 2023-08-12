@@ -28,7 +28,7 @@ meant to have logical equations. It only intends to generate random equations,
 with random values, but with the pre-setted positions of a common vertical
 equation. It uses the numerical symbols from MNIST dataset and uses the addition,
 subtraction and equals symbols from our proposed dataset. The MNIST digits
-were taken from this link: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+were taken from this link: [Kaggle_MNIST](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv).
 
 ## The Code:
 The code is divided in two steps, which are the following:
